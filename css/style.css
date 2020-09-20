@@ -63,7 +63,9 @@ nav ul li a{
     transition-duration: 0.3s;
 }
 nav ul li a:hover{
-	background: #5E2CED;
+	background: linear-gradient(145deg, #724ddd, #885cff);
+	box-shadow:  2px 2px 4px #6c49d0, 
+             -2px -2px 4px #9263ff;
 }
 .banner-content{
     text-align: center;
