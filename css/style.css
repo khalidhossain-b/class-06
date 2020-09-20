@@ -113,6 +113,11 @@ nav ul li a:hover{
     margin-top: 20px;
     border-radius: 5px;
 }
+.feature-content a:hover{
+	 background-color: #263b5e;
+	 transition-duration: 0.3s;
+    
+}
 
 
 footer{
@@ -151,8 +156,8 @@ footer{
     padding: 5px 0;
  }
 .fcol ul li a:hover{
-	    color: #41455a;
-    font-weight: 300;
+	   color: blue;
+	 transition-duration: 0.3s;
 }
 
 main{background: #5428d5;}
