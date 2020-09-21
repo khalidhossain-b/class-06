@@ -189,13 +189,3 @@ align-items: center;
     text-decoration: none;
     color: #1c1d21;
 }
-audio{
-	transition: all 0.3s linear;
-	border-radius: 7px;
-	padding: 2px 0;
-}
-audio:hover , audio:focus , audio:active{
-	box-shadow: 15px 15px 15px rgba(0, 0, 0,0.4);
-	transform:scale(1.03);
-
-}
